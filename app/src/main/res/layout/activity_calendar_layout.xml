@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:id="@+id/custom_toast"
+    android:background="@drawable/calendar_lay"
+    android:layout_height="match_parent">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="180dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center"
+        android:src="@drawable/calender"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textAllCaps="true"/>
+
+
+</LinearLayout>

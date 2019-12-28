@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IOT-MANHOLE ENTRY-GAS DETECTIon</string>
+    <string name="sewage_gas_monitoring">கழிவுநீர் எரிவாயு கண்காணிப்பு</string>
+    <string name="gas">எரிவாயு</string>
+    <string name="measurement">அளவீடு</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="calendar">காலண்டர்</string>
+    <string name="concentration">அளவு</string>
+    <string name="carbon">கார்பன்</string>
+    <string name="information">தகவல்</string>
+    <string name="dioxide">டை ஆக்சைடு</string>
+    <string name="methane">மீத்தேன்</string>
+    <string name="monoxide">மோனாக்சைடு</string>
+    <string name="sulphide">சல்பைடு</string>
+    <string name="hydrogen">ஹைட்ரஜன்</string>
+    <string name="ammonia">அம்மோனியா</string>
+    <string name="variation">மாறுபாடு</string>
+    <string name="multilanguage_support">மொழி ஆதரவு</string>
+    <string name="language_settings">மொழி அமைப்புகள்</string>
+    <string name="gas_safety_limit">எரிவாயு பாதுகாப்பு வரம்பு</string>
+    <string name="methane_limits">1. மீத்தேன் வாயுவின் பாதுகாப்பு வரம்பு 1000 பிபிஎம்</string>
+    <string name="co2_limits">2. கார்போண்டியாக்சைடு வாயுவின் பாதுகாப்பு வரம்பு 5000 பிபிஎம்</string>
+    <string name="co_limits">3. கார்பன் மோனாக்சைடு வாயுவின் பாதுகாப்பு வரம்பு 50 பிபிஎம்</string>
+    <string name="h2s_limits">4. ஹைட்ரஜன் சல்பைட் வாயுவின் பாதுகாப்பு வரம்பு 60 பிபிஎம்</string>
+    <string name="ammonia_limits">5. அம்மோனியா வாயுவின் பாதுகாப்பு வரம்பு 100 பிபிஎம்</string>
+    <string name="dash">----------------------------------------------</string>
+    <string name="mild">MILD</string>
+    <string name="medium">MEDIUM</string>
+    <string name="high">HIGH</string>
+</resources>

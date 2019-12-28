@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IOT-MANHOLE ENTRY-GAS DETECTIon</string>
+    <string name="sewage_gas_monitoring">Sewage Gas Monitoring</string>
+    <string name="gas">GAS</string>
+    <string name="measurement">MEASUREMENT</string>
+    <string name="settings">SETTINGS</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="concentration">CONCENTRATION</string>
+    <string name="carbon">CARBON</string>
+    <string name="dioxide">DIOXIDE</string>
+    <string name="methane">METHANE</string>
+    <string name="monoxide">MONOXIDE</string>
+    <string name="sulphide">SULPHIDE</string>
+    <string name="hydrogen">HYDROGEN</string>
+    <string name="ammonia">AMMONIA</string>
+    <string name="variation">VARIATION</string>
+    <string name="multilanguage_support">MULTILANGUAGE SUPPORT</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="information">INFORMATION</string>
+    <string name="gas_safety_limit">GAS SAFETY LIMIT</string>
+    <string name="methane_limits">1.The safety Limit of Methane gas is 1000ppm</string>
+    <string name="co2_limits">2.The safety Limit of Carbondioxide gas is 5000ppm</string>
+    <string name="co_limits">3.The safety Limit of Carbon monoixde gas is 50ppm</string>
+    <string name="h2s_limits">4.The safety Limit of Hydrogen Sulphide gas is 60ppm</string>
+    <string name="ammonia_limits">5.The safety Limit of Ammonia gas is 100ppm</string>
+    <string name="dash">----------------------------------------------</string>
+    <string name="mild">MILD</string>
+    <string name="medium">MEDIUM</string>
+    <string name="high">HIGH</string>
+</resources>
